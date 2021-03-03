@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">android_app</string>
+    <string name="exit_button">EXIT</string>
+    <string name="start_button">CONNECT</string>
+    <string name="stop_button">STOP</string>
+</resources>

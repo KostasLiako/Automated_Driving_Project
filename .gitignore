@@ -1,0 +1,8 @@
+.idea/
+/server/.idea
+/server/target
+/server/csvFiles/*.csv
+/server/output/*.png
+.DS_Store
+*.iml
+*.iws
